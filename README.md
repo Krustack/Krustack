@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hello, World! 👋 I'm Wisanu Pornjariyatham
 
-<!--
-**Krustack/Krustack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science teacher 👨‍🏫 and developer 💻 at Chonradsadornumrung School.
 
-Here are some ideas to get you started:
+## 🎓 Education
+I hold a Bachelor's degree in Information Technology from Burapha University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+Currently, I'm bringing education to the next level by integrating advanced technology in the classroom at Chonradsadornumrung School.
+
+## 🚀 Skills
+Here are a few technologies I've been working with recently:
+
+**Programming Languages:**
+* HTML5 📝
+* CSS3 🎨
+* JavaScript 🛠️
+* TypeScript 📚
+* Python 🐍
+
+**Frontend Development:**
+* React ⚛️
+* Vue.js 🖼️
+* Svelte 🔥
+
+**Other Technologies:**
+* Docker 🐳
+* GitHub 🐙
+
+## 🌐 Get in Touch
+You can find and get touch with me on the following platforms:
+
+* [GitHub](https://www.github.com/krustack) 📚
+
+
+Feel free to drop a message anytime, I'd be happy to chat! 😊
