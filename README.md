@@ -22,10 +22,12 @@ Here are a few technologies I've been working with recently:
 * React ⚛️
 * Vue.js 🖼️
 * Svelte 🔥
+* Angular 🅰️ 
 
 **Other Technologies:**
 * Docker 🐳
 * GitHub 🐙
+* Prompt Eng 👨‍💻
 
 ## 🌐 Get in Touch
 You can find and get touch with me on the following platforms:
